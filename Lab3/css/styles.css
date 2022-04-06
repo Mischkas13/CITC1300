@@ -64,7 +64,7 @@ footer {
 }
 
 /* Tablet Styles */
-@media(min-width: 768px) {
+@media (min-width: 768px) {
   #container {
       width: 90%;
       margin: 20px auto;
@@ -75,7 +75,7 @@ footer {
     border-radius: 20px;
 }
 /* Desktop Styles */
-@media(min-width: 1020px) {
+@media (min-width: 1020px) {
   #container {
         width: 70%;
         border-radius: 20 px;
