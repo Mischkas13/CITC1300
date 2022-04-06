@@ -34,8 +34,9 @@ header h1
         }
 header p {
     text-align: center;
-    font-size: 2em;
+    font-size: 1.5em;
     font-family: 'Bilbo Swash Caps', cursive;
+
 }
 
     
@@ -60,6 +61,7 @@ header p {
 .main_img {
     display: none;
 }
+
 
 footer {
     padding: 60px 0;
