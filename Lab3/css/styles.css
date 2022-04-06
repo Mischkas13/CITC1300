@@ -83,7 +83,7 @@ footer {
 /* Desktop Styles */
 @media (min-width: 1020px) {
   #container {
-        width: medium;
+        width: 40%;
         border-radius: 100px;
     }
 
