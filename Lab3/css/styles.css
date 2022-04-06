@@ -17,7 +17,7 @@ img {
     margin: 100px;
 }
 header {
-    padding: 77px 0px;
+    padding: 120px 0px;
     border-bottom: 10px solid black;
     border-radius: 20px;
 }
@@ -36,12 +36,11 @@ header p {
     text-align: center;
     font-size: 1.5em;
     font-family: 'Bilbo Swash Caps', cursive;
-
 }
 
     
 .col {
-    border: 4px solid black;
+    border: 7px solid black;
     padding: 20px;
     margin: 20px;
     border-radius: 20px;
