@@ -6,7 +6,7 @@ body {
 }
 img {
      display: block;
-     max-width: 100%;
+     max-width: 150%;
      margin: auto;
      text-align: center;
      }
@@ -14,13 +14,18 @@ img {
 
 #container {
     background: conic-gradient(from 225deg at 50% 50%, #a2ac94, #b7bca8, #cbccbc);
-    margin: 20px;
+    margin: 30px;
 }
 header {
-    padding: 60px 40px;
+    padding: 60px 0px;
     border-bottom: 4px solid black;
+    border-radius: 20px;
 }
-
+#header-background{
+    width: 100%;
+    height: 100px;
+    background: radial-gradient(circle at 50% 50%,#a2ac94, #b7bca8, #404C24)
+}
 header h1 
 {
     text-align:center;
@@ -35,10 +40,10 @@ header p {
 
     
 .col {
-    border: 4px solid black;
-    padding: 20px;
-    margin: 20px;
-    border-radius: 20px;
+    border: 10px solid black;
+    padding: 40px;
+    margin: 30px;
+    border-radius: 10px;
 }
 
 .col h2 {
@@ -48,7 +53,7 @@ header p {
 }
 
 .col img {
-    width: 50%;
+    width: 40%;
 
 }
 
@@ -77,18 +82,18 @@ footer {
 /* Desktop Styles */
 @media (min-width: 1020px) {
   #container {
-        width: 70%;
-        border-radius: 20 px;
+        width: 90%;
+        border-radius: 100px;
     }
 
   #flex {
       display: flex;
   }  
   .col {
-      margin: 20px;
+      margin: 100px;
   }
   .col img {
-      width: 70%;
+      width: 100%;
       margin: auto;
   }
   .main_img {
