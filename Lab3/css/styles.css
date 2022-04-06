@@ -1,13 +1,15 @@
 body {
     background-color: #3e4437;
-    font-size: 18px;
+    font-size: 20px;
     font-family: 'Lato', sans-serif;
     background: radial-gradient(ellipse at 50% 50%,#a2ac94, #3e4437)
 }
 img {
      display: block;
      max-width: 100%;
-     margin: auto; }
+     margin: auto;
+     text-align: center;
+     }
 /* Mobile Styles */
 
 #container {
@@ -47,6 +49,7 @@ header p {
 
 .col img {
     width: 50%;
+
 }
 
 .main_img {
