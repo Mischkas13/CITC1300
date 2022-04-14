@@ -1,6 +1,6 @@
 /*Global Stylees*/
-body { background-color: #6537A6; opacity: 1.5;
-    background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #6537A6 20px ), repeating-linear-gradient( #140F8C55, #140F8C );
+body {
+    background: radial-gradient(circle at 50% 50%,#6537A6, #210759, #6a67b6, #010440, rgba(20,15,140,1))
 }
 
 img {
@@ -11,7 +11,7 @@ img {
 /*Mobile Styles*/
 
 #container {
-    background-color: black;
+    background: linear-gradient(90deg, #BF4EAC, #6537A6, #210759)
     margin: 10px;
 }
 
@@ -37,7 +37,7 @@ nav li {
 
 nav li a{
     display: block;
-    background-color: #1C818C;
+    background: radial-gradient(ellipse at 50% 50%,#BF4EAC, #6537A6, #210759);
     color: wheat;
     height: 40px;
     line-height: 40px;
@@ -46,11 +46,11 @@ nav li a{
     margin: 10px 0;
 }
 nav li a:hover {
-    background-color: #6CC5D9;
+    background-color: #6537A6;
     text-shadow: 2px 2px 2px #000;
 }
 nav, section, aside, .col, footer {
-    background-color: #6CC5D9;
+    background-color: #210759;
     padding: 20px;
     margin: 10px;
     border: 4px solid #6CC5D9;
@@ -58,11 +58,15 @@ nav, section, aside, .col, footer {
 
 }
 h2,h3 {
-    color: #1C818C;
+    color: whitesmoke;
     text-shadow: 2px 2px 2ex #000;
     font-size: 1.5em;
     width: auto;
 
+}
+p {
+    color: whitesmoke;
+    font-size: 1.0em;
 }
 
 section img, aside img {
@@ -151,7 +155,7 @@ table {
 @media(min-width 1024px) {
     #container {
         width: 75%;
-        margin: auto auto;
+        margin: 20px auto;
         border: 4px solid #6CC5D9;
         border-radius: 20px;
         
@@ -190,4 +194,5 @@ table {
     table {
         display: block;
     }
+    
 }
