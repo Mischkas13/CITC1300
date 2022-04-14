@@ -152,7 +152,7 @@ table {
 }
 
 /*Desktop Styles*/
-@media(min-width 1024px) {
+@media (min-width 1024px) {
         #container {
             width: 75%;
             margin: 20px auto;
@@ -191,7 +191,5 @@ table {
             display: none;
         }
         table {
-            display: block; }
-    
-}
+            display: block; }}
 
