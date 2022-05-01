@@ -254,11 +254,13 @@ p {
     border-radius: 10px;
 
 }
-video {
+video, audio {
     display: block;
     margin: 20px auto;
     width: 75%;
 }
+
+
 /*Index*/
 .bg1 {
   background: url('/images/Bangtan.png');
