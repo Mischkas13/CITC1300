@@ -258,6 +258,7 @@ video, audio {
     display: block;
     margin: 20px auto;
     width: 75%;
+    border: 2px solid black;
 }
 
 
