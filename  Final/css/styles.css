@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
 
+/*Global*/
 * {
   box-sizing: border-box;
   margin: 0;
@@ -69,7 +70,7 @@ ul {
   .dropdown:hover .dropdown-content {
     display: block;
   }
-
+/*Index*/
 h2 {
   font-size: 20px;
   font-weight: 300;
@@ -87,20 +88,12 @@ p {
 
 /*Member Pages*/
 /* Header/logo Title */
-.header {
-    padding: 20px;
-    text-align: center;
-    background: black;
-    color: white;
-  }
+
   
   /* Increase the font size of the heading */
   .header h1 {
     font-size: 40px;
   }
-  * {
-    box-sizing: border-box;
- }
  .fancy {
     font-size: 30px;
      background-color: black;
@@ -112,9 +105,7 @@ p {
      font-size: 40px;
      font-weight: 400;
      text-align: center;
-     color: black;
-     
-    
+     color: black;  
  }
 
  .box img {
@@ -212,7 +203,6 @@ p {
   background-size: cover;
   background-size: 400px;
   background-repeat: no-repeat;
-
   display: flex;
   flex-direction: column;
   align-items: normal;
@@ -224,15 +214,15 @@ p {
     transform: scale(1);
 }
 
-
-.link {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
+.span-link {
+    position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
     left: 0;
-    z-index: 1;
+    z-index: 9999;
   }
+
 /*Events*/
 #customers {
     font-family: Arial, Helvetica, sans-serif;
@@ -257,6 +247,20 @@ p {
     text-align: center;
     background-color: black;
     color: white;
+}
+/*videos*/
+.col{
+    background-color: #210759;
+    padding: 20px;
+    margin: 10px;
+    border: 4px solid #6CC5D9;
+    border-radius: 10px;
+
+}
+video {
+    display: block;
+    margin: 20px auto;
+    width: 75%;
 }
 /*Index*/
 .bg1 {
