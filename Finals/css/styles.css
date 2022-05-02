@@ -206,10 +206,6 @@ p {
     padding: 80px;
 }
 
-.fix{
-    grid-gap: 11px;
- }
-
 .container > div {
   cursor: pointer;
   height: 300px;
@@ -232,7 +228,7 @@ p {
 #customers {
     font-family: Arial, Helvetica, sans-serif;
     border-collapse: collapse;
-    width: 70%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
   }
