@@ -281,71 +281,71 @@ video, audio {
 
 /*Index*/
 .bg1 {
-  background: url('/Images/Bangtan.png');
+  background: url('Images/Bangtan.png');
 }
 
 .bg2 {
-  background: url('/Images/BTS.jpeg');
+  background: url('Images/BTS.jpeg');
 }
 .bg3 {
-    background: url('/Images/RM.jpeg');
+    background: url('Images/RM.jpeg');
 }
 .bg4 {
-    background: url('/Images/Yoongi.jpeg');
+    background: url('Images/Yoongi.jpeg');
 }
 .bg5 {
-    background: url('/Images/Jin.jpeg');
+    background: url('Images/Jin.jpeg');
 }
 .bg6 {
-    background: url('/Images/jhope.jpeg');
+    background: url('Images/jhope.jpeg');
 }
 .bg7 {
-    background: url('/Images/Jimin.jpeg');
+    background: url('Images/Jimin.jpeg');
 }
 .bg8 {
-    background-image: url('/Images/v1.jpeg');
+    background-image: url('Images/v1.jpeg');
 }
 .bg9 {
-    background: url('/Images/ARMY.jpeg');
+    background: url('Images/ARMY.jpeg');
 }
 .bg10 {
-    background: url('/Images/JK.jpeg');
+    background: url('Images/JK.jpeg');
 }
 /*Gallery*/
 .bg11{
-    background: url('/Images/i1.png');
+    background: url('Images/i1.png');
 
 }
 .bg12 {
-    background: url('/Images/i2.png');
+    background: url('Images/i2.png');
 }
 .bg13 {
-    background: url('/Images/i3.png');
+    background: url('Images/i3.png');
 }
 .bg14 {
-    background: url('/Images/i4.png');
+    background: url('Images/i4.png');
 }
 .bg15 {
-    background: url('/Images/i5.jpg');
+    background: url('Images/i5.jpg');
 }
 .bg16 {
-    background: url('/Images/i6.png')
+    background: url('Images/i6.png')
 }
 .bg17 {
-    background: url('/Images/i7.png');
+    background: url('Images/i7.png');
 }
 .bg18 {
-    background: url('/Images/i8.png');
+    background: url('Images/i8.png');
 }
 .bg19 {
-    background: url('/Images/i9.png');
+    background: url('Images/i9.png');
 }
 .bg20 {
-    background: url('/Images/un.jpeg');
+    background: url('Images/un.jpeg');
 }
 .bg21 {
-    background: url('/Images/bullet.png');
+    background: url('Images/bullet.png');
 }
 .bg22 {
-    background: url('/Images/bulletproog.png');
+    background: url('Images/bulletproog.png');
 }
