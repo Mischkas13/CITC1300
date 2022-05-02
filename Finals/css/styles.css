@@ -326,26 +326,26 @@ video, audio {
     background: url("images/i4.png");
 }
 .bg15 {
-    background: url("images/i5.jpg");
+    background: url('images/i5.jpg');
 }
 .bg16 {
-    background: url("images/i6.png")
+    background: url('images/i6.png')
 }
 .bg17 {
-    background: url("images/i7.png");
+    background: url('images/i7.png');
 }
 .bg18 {
-    background: url("images/i8.png");
+    background: url('images/i8.png');
 }
 .bg19 {
-    background: url("images/i9.png");
+    background: url('images/i9.png');
 }
 .bg20 {
-    background: url("images/un.jpeg");
+    background: url('images/un.jpeg');
 }
 .bg21 {
-    background: url("images/bullet.png");
+    background: url('images/bullet.png');
 }
 .bg22 {
-    background: url("images/bulletproog.png");
+    background-image: url('images/bulletproog.png');
 }
