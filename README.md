@@ -6,6 +6,7 @@
     <li><a href="Lab2/index.html" target="_blank">Lab 2</a></li>
     <li><a href="Lab3/index.html" target="_blank">Lab 3</a></li>
     <li><a href="Lab4/index.html" target="_blank">Lab 4</a></li>
+    <li><a href=" Final/index.html" target="_blank">Final</a></li>
 
     
  </ul>   
