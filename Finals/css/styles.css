@@ -281,35 +281,35 @@ video, audio {
 
 /*Index*/
 .bg1 {
-  background: url('Finals/images/Bangtan.jpeg');
+  background: url('/images/Bangtan.jpeg');
 }
 
 .bg2 {
-  background: url('Finals/images/BTS.jpeg');
+  background: url('/images/BTS.jpeg');
 }
 .bg3 {
-    background: url('Finals/images/RM.jpeg');
+    background: url('/images/RM.jpeg');
 }
 .bg4 {
-    background: url('Finals/images/Yoongi.jpeg');
+    background: url('/images/Yoongi.jpeg');
 }
 .bg5 {
-    background: url('Finals/images/Jin.jpeg');
+    background: url('/images/Jin.jpeg');
 }
 .bg6 {
-    background: url('Finals/images/jhope.jpeg');
+    background: url('/images/jhope.jpeg');
 }
 .bg7 {
-    background: url('Finals/images/Jimin.jpeg');
+    background: url('/images/Jimin.jpeg');
 }
 .bg8 {
-    background-image: url('Finals/images/v1.jpeg');
+    background-image: url('/images/v1.jpeg');
 }
 .bg9 {
-    background: url('Finals/images/ARMY.jpeg');
+    background: url('/images/ARMY.jpeg');
 }
 .bg10 {
-    background: url('Finals/images/JK.jpeg');
+    background: url('/images/JK.jpeg');
 }
 
 /*Gallery*/
